@@ -1,0 +1,19 @@
+{
+  "_id": "page.incident-equipment-domain",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.incident-equipment-domain--text.auto_name__30",
+      "_type": "text",
+      "hint": "For example DOM1, Quantum, Outlook, MS Teams",
+      "label": "What domains or applications does the incident relate to?",
+      "name": "auto_name__30"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__18",
+    "operator": "is",
+    "value": "incident-equipment-yes"
+  },
+  "url": "incident-equipment-domain"
+}

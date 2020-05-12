@@ -1,0 +1,26 @@
+{
+  "_id": "page.line-manager",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.line-manager--text.auto_name__41",
+      "_type": "text",
+      "label": "Full name",
+      "name": "auto_name__41"
+    },
+    {
+      "_id": "page.line-manager--email.auto_name__42",
+      "_type": "email",
+      "label": "Email address",
+      "name": "auto_name__42"
+    },
+    {
+      "_id": "page.line-manager--number.auto_name__43",
+      "_type": "number",
+      "label": "Telephone number",
+      "name": "auto_name__43"
+    }
+  ],
+  "heading": "Line Manager",
+  "url": "line-manager"
+}

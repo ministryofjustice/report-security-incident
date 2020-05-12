@@ -1,0 +1,53 @@
+{
+  "_id": "page.safety2",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.safety2--radios.auto_name__34",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.safety2--radios.auto_name__34--radio.auto_value__21",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__21"
+        },
+        {
+          "_id": "page.safety2--radios.auto_name__34--radio.auto_value__22",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__22"
+        }
+      ],
+      "legend": "Would the personal safety of an individual be at risk?",
+      "name": "auto_name__34"
+    },
+    {
+      "_id": "page.safety2--radios.auto_name__35",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.safety2--radios.auto_name__35--radio.auto_value__23",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__23"
+        },
+        {
+          "_id": "page.safety2--radios.auto_name__35--radio.auto_value__24",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__24"
+        }
+      ],
+      "legend": "Would the individual be exposed to fraud and/or identity theft?",
+      "name": "auto_name__35"
+    }
+  ],
+  "heading": "Safeguarding",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "incident-personal-data-yes"
+  },
+  "url": "safety2"
+}

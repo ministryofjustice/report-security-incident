@@ -1,0 +1,29 @@
+{
+  "_id": "page.incident-equipment-data",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.incident-equipment-data--radios.auto_name__18",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.incident-equipment-data--radios.auto_name__18--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "incident-equipment-yes"
+        },
+        {
+          "_id": "page.incident-equipment-data--radios.auto_name__18--radio.auto_value__14",
+          "_type": "radio",
+          "label": "No",
+          "value": "incident-equipment-no"
+        }
+      ],
+      "legend": "Does the incident involve loss or damage to IT equipment or data?",
+      "name": "auto_name__18"
+    }
+  ],
+  "enableSteps": true,
+  "show": true,
+  "url": "incident-equipment"
+}

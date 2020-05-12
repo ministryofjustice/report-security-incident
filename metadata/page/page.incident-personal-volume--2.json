@@ -1,0 +1,39 @@
+{
+  "_id": "page.incident-personal-volume--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.incident-personal-volume--2--radios.auto_name__4",
+      "_type": "radios",
+      "hint": "For example, more than 25 people",
+      "items": [
+        {
+          "_id": "page.incident-personal-volume--2--radios.auto_name__4--radio.auto_value__17",
+          "_type": "radio",
+          "label": "Less than 25 people",
+          "value": "auto_value__17"
+        },
+        {
+          "_id": "page.incident-personal-volume--2--radios.auto_name__4--radio.auto_value__18",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.incident-personal-volume--2--radios.auto_name__4--radio.auto_value__18--number.auto_name__6",
+            "_type": "number",
+            "label": "How many people are potentially affected?",
+            "name": "auto_name__6"
+          },
+          "label": "25 people or more",
+          "value": "auto_value__18"
+        }
+      ],
+      "legend": "How many people are potentially affected?",
+      "name": "auto_name__4"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "incident-personal-data-yes"
+  },
+  "url": "incident-personal-volume2"
+}

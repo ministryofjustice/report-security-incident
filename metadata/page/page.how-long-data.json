@@ -1,0 +1,32 @@
+{
+  "_id": "page.how-long-data",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-long-data--radios.auto_name__36",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.how-long-data--radios.auto_name__36--radio.auto_value__25",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__25"
+        },
+        {
+          "_id": "page.how-long-data--radios.auto_name__36--radio.auto_value__26",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__26"
+        }
+      ],
+      "legend": "Did the incident occur over a week ago?",
+      "name": "auto_name__36"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "incident-personal-data-yes"
+  },
+  "url": "how-long-data"
+}

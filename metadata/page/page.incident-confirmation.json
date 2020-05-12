@@ -1,0 +1,19 @@
+{
+  "_id": "page.incident-confirmation",
+  "_type": "page.confirmation",
+  "body": "We have sent you a confirmation email.",
+  "components": [
+    {
+      "_id": "page.incident-confirmation--content",
+      "_type": "content",
+      "html": "**What happens next**"
+    },
+    {
+      "_id": "page.incident-confirmation--content--2",
+      "_type": "content",
+      "html": "We've sent your report to the MoJ Group Security if it relates to physical or personnel security incidents for HQ only, to the Technology Service Desk if it relates to IT, and to Security Breach if it relates to data breach for HQ only.\r\n\r\nThey will review the report and take appropriate action."
+    }
+  ],
+  "heading": "Your report has been sent",
+  "url": "incident-confirmation"
+}

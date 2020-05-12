@@ -1,0 +1,70 @@
+{
+  "_id": "page.incident-equipment-action",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.incident-equipment-action--checkboxes",
+      "_type": "checkboxes",
+      "hint": "To reduce impact of security incident and further harm occurring ",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__32",
+          "_type": "checkbox",
+          "label": "The person who's data has been lost",
+          "name": "auto_name__32"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__33",
+          "_type": "checkbox",
+          "label": "Local SCS member",
+          "name": "auto_name__33"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "$component": true,
+            "$control": true,
+            "$definition": true,
+            "$fields": true,
+            "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__5--date.auto_name__10",
+            "_type": "date",
+            "legend": "Date they were informed",
+            "name": "auto_name__10"
+          },
+          "label": "The Data Access and Compliance Unit (DACU)",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Press Office",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__17--text.auto_name__21",
+            "_type": "text",
+            "label": "Police Reference Number",
+            "name": "auto_name__21"
+          },
+          "label": "Police",
+          "name": "auto_name__17"
+        }
+      ],
+      "legend": "Who has been informed?"
+    }
+  ],
+  "url": "incident-equipment-action"
+}
