@@ -27,14 +27,56 @@
         {
           "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__50",
           "_type": "checkbox",
+          "label": "Identification number",
+          "name": "auto_name__50"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__51",
+          "_type": "checkbox",
+          "label": "An online identifier – (e.g. internet protocol (IP) addresses)",
+          "name": "auto_name__51"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__53",
+          "_type": "checkbox",
+          "label": "Racial or ethnic origin",
+          "name": "auto_name__53"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__54",
+          "_type": "checkbox",
+          "label": "Political opinions",
+          "name": "auto_name__54"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__55",
+          "_type": "checkbox",
+          "label": "Religious or philosophical beliefs",
+          "name": "auto_name__55"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__56",
+          "_type": "checkbox",
+          "label": " Trade union membership",
+          "name": "auto_name__56"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__57",
+          "_type": "checkbox",
+          "label": "Sexual orientation",
+          "name": "auto_name__57"
+        },
+        {
+          "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__58",
+          "_type": "checkbox",
           "conditionalComponent": {
-            "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__50--text.auto_name__51",
+            "_id": "page.personal-data-checkboxes--checkboxes--checkbox.auto_name__58--text.auto_name__59",
             "_type": "text",
-            "label": "Type of personal data",
-            "name": "auto_name__51"
+            "label": "Type of data",
+            "name": "auto_name__59"
           },
           "label": "Other",
-          "name": "auto_name__50"
+          "name": "auto_name__58"
         }
       ],
       "legend": "What type of data?"
