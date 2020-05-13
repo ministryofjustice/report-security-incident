@@ -7,48 +7,36 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.classification--radios.auto_name__45--radio.auto_value__29",
           "_type": "radio",
           "label": "Official ",
           "value": "auto_value__29"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.classification--radios.auto_name__45--radio.auto_value__30",
           "_type": "radio",
           "label": "Official-Sensitive ",
           "value": "auto_value__30"
         },
         {
-          "_id": "page.classification--radios.auto_name__45--radio.auto_value__31",
-          "_type": "radio",
-          "label": "Unclassified ",
-          "value": "auto_value__31"
-        },
-        {
-          "_id": "page.classification--radios.auto_name__45--radio.auto_value__32",
-          "_type": "radio",
-          "label": "Protect ",
-          "value": "auto_value__32"
-        },
-        {
-          "_id": "page.classification--radios.auto_name__45--radio.auto_value__33",
-          "_type": "radio",
-          "label": "Restricted ",
-          "value": "auto_value__33"
-        },
-        {
-          "_id": "page.classification--radios.auto_name__45--radio.auto_value__34",
-          "_type": "radio",
-          "label": "Confidential ",
-          "value": "auto_value__34"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.classification--radios.auto_name__45--radio.auto_value__35",
           "_type": "radio",
           "label": "Secret ",
           "value": "auto_value__35"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.classification--radios.auto_name__45--radio.auto_value__36",
           "_type": "radio",
           "label": "Top Secret ",
