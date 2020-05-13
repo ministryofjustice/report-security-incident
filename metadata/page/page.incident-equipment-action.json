@@ -13,7 +13,7 @@
           "$option": true,
           "_id": "page.incident-equipment-action--checkboxes--checkbox.auto_name__32",
           "_type": "checkbox",
-          "label": "The person who's data has been lost",
+          "label": "The person whose data has been lost",
           "name": "auto_name__32"
         },
         {
