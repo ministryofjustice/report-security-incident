@@ -6,6 +6,13 @@
       "_id": "page.incident-personal-volume--2--radios.auto_name__4",
       "_type": "radios",
       "hint": "QUESTION TBD",
+      "items": [
+        {
+          "_id": "page.incident-personal-volume--2--radios.auto_name__4--radio.auto_value__5",
+          "_type": "radio",
+          "value": "auto_value__5"
+        }
+      ],
       "legend": "How many people are potentially affected?",
       "name": "auto_name__4"
     }

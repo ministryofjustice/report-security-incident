@@ -7,32 +7,11 @@
       "$control": true,
       "$definition": true,
       "$field": true,
-      "_id": "page.incident-building--text.auto_name__15",
-      "_type": "text",
-      "hint": "For example, North-East.",
-      "label": "Region",
-      "name": "auto_name__15"
-    },
-    {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
-      "_id": "page.incident-building--text.auto_name__20",
-      "_type": "text",
-      "label": "Name of the building",
-      "name": "auto_name__20"
-    },
-    {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
-      "_id": "page.incident-building--text.auto_name__31",
-      "_type": "text",
-      "hint": "For example, the floor or post point",
-      "label": "Location in the building",
-      "name": "auto_name__31"
+      "_id": "page.incident-building--textarea.auto_name__61",
+      "_type": "textarea",
+      "hint": "Including location in the building such as the floor or post point, or region if applicable.",
+      "label": "Full address",
+      "name": "auto_name__61"
     }
   ],
   "heading": "Where did it happen?",
