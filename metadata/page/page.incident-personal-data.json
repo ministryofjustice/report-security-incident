@@ -5,6 +5,7 @@
     {
       "$source": "@ministryofjustice/fb-components",
       "_id": "page.incident-personal-data--radios.auto_name__2",
+      "_isa": "",
       "_type": "radios",
       "classes": "govuk-radios--inline",
       "items": [

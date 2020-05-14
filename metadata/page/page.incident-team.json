@@ -177,8 +177,11 @@
           "value": "yjb"
         }
       ],
-      "label": "Business group",
-      "name": "auto_name__60"
+      "label": "Business group (optional)",
+      "name": "auto_name__60",
+      "validation": {
+        "required": false
+      }
     },
     {
       "$component": true,
@@ -187,10 +190,11 @@
       "$field": true,
       "_id": "page.incident-team--text.auto_name__3",
       "_type": "text",
-      "label": "Business area",
+      "label": "Business area (optional)",
       "name": "auto_name__3"
     }
   ],
   "heading": "What part of the MoJ did it happen in?",
+  "show": false,
   "url": "incident-team"
 }

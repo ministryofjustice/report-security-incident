@@ -47,10 +47,6 @@
       "name": "auto_name__45"
     }
   ],
-  "show": {
-    "identifier": "auto_name__2",
-    "operator": "is",
-    "value": "incident-personal-data-yes"
-  },
+  "show": false,
   "url": "classification"
 }

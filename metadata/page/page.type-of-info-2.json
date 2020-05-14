@@ -1,0 +1,19 @@
+{
+  "_id": "page.type-of-info-2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.type-of-info-2--textarea.auto_name__31",
+      "_type": "textarea",
+      "hint": "For example names, addresses or National Insurance numbers\r\n",
+      "label": "What type of information?",
+      "name": "auto_name__31"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "incident-personal-data-yes"
+  },
+  "url": "type-of-info-2"
+}

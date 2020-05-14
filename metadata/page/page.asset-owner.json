@@ -22,5 +22,6 @@
     }
   ],
   "heading": "Asset owner",
+  "show": false,
   "url": "asset-owner"
 }

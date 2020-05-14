@@ -19,7 +19,7 @@
           "value": "incident-equipment-no"
         }
       ],
-      "legend": "Does the incident involve loss or damage to IT equipment or data?",
+      "legend": "Does the incident involve loss or damage to IT equipment?",
       "name": "auto_name__18"
     }
   ],

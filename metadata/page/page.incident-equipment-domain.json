@@ -10,10 +10,6 @@
       "name": "auto_name__30"
     }
   ],
-  "show": {
-    "identifier": "auto_name__18",
-    "operator": "is",
-    "value": "incident-equipment-yes"
-  },
+  "show": false,
   "url": "incident-equipment-domain"
 }
