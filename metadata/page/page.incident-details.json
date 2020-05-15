@@ -5,8 +5,8 @@
     {
       "_id": "page.incident-details--textarea.auto_name__14",
       "_type": "textarea",
-      "hint": "What you saw, sequence of events, any witnesses.",
-      "label": "Any other relevant details of the incident ",
+      "hint": "Give as much detail as you can",
+      "label": "Tell us about the incident ",
       "name": "auto_name__14"
     }
   ],

@@ -9,6 +9,13 @@
         {
           "_id": "page.incident-equipment-data--radios.auto_name__18--radio.auto_value__13",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.incident-equipment-data--radios.auto_name__18--radio.auto_value__13--text.auto_name__4",
+            "_type": "text",
+            "hint": "For example a PC, laptop or mobile phone",
+            "label": "Type of equipment",
+            "name": "auto_name__4"
+          },
           "label": "Yes",
           "value": "incident-equipment-yes"
         },
@@ -19,7 +26,7 @@
           "value": "incident-equipment-no"
         }
       ],
-      "legend": "Does the incident involve loss or damage to IT equipment?",
+      "legend": "Was IT equipment lost or damaged? ",
       "name": "auto_name__18"
     }
   ],
