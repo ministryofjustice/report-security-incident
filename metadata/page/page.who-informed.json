@@ -1,0 +1,13 @@
+{
+  "_id": "page.who-informed",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.who-informed--text.auto_name__1",
+      "_type": "text",
+      "label": "Who have you informed about the incident? (optional)",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "who-was-informed"
+}
