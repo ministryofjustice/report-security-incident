@@ -14,24 +14,6 @@
       "validation": {
         "required": true
       }
-    },
-    {
-      "_id": "page.incident-building--text.auto_name__15",
-      "_type": "text",
-      "label": "Floor (if you know it)",
-      "name": "auto_name__15",
-      "validation": {
-        "required": false
-      }
-    },
-    {
-      "_id": "page.incident-building--text.auto_name__20",
-      "_type": "text",
-      "label": "Post point (if you know it)",
-      "name": "auto_name__20",
-      "validation": {
-        "required": false
-      }
     }
   ],
   "heading": "Where did it happen?",
