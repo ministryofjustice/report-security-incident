@@ -7,7 +7,10 @@
       "_type": "textarea",
       "hint": "Include the names of any people involved, or their line manager if you know this information",
       "label": "Who was involved? (optional)",
-      "name": "auto_name__23"
+      "name": "auto_name__23",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "url": "who-was-involved"

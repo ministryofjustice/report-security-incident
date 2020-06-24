@@ -6,7 +6,10 @@
       "_id": "page.who-informed--text.auto_name__1",
       "_type": "text",
       "label": "Who have you informed about the incident? (optional)",
-      "name": "auto_name__1"
+      "name": "auto_name__1",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "url": "who-was-informed"
