@@ -6,7 +6,7 @@
       "_id": "page.person-relates-2--textarea.auto_name__23",
       "_type": "textarea",
       "hint": "Include the names of any people involved, or their line manager if you know this information",
-      "label": "Who was involved?",
+      "label": "Who was involved? (optional)",
       "name": "auto_name__23"
     }
   ],
