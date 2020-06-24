@@ -3,20 +3,14 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$fields": true,
       "_id": "page.incident-where--date.auto_name__39",
       "_type": "date",
       "legend": "Date",
       "name": "auto_name__39"
-    },
-    {
-      "_id": "page.incident-where--text.auto_name__40",
-      "_type": "text",
-      "hint": "For example, 4:20pm",
-      "label": "Time (optional)",
-      "name": "auto_name__40",
-      "validation": {
-        "required": false
-      }
     }
   ],
   "heading": "When did the incident happen?",
