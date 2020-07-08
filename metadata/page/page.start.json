@@ -1,8 +1,8 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "You can use this form to report:\r\n\r\n- loss of personal information\r\n- a lost or stolen device, like a laptop or mobile\r\n- unauthorised access to IT systems or documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n",
-  "heading": "Report a security incident or breach anonymously",
+  "body": "You can use this form to report a security incident, for example:\r\n\r\n- loss of personal information\r\n- a lost or stolen device, like a laptop or mobile\r\n- unauthorised access to IT systems or documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n",
+  "heading": "Report a security incident anonymously",
   "steps": [
     "page.incident-where",
     "page.incident-building",

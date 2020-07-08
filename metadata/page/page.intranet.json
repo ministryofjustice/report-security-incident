@@ -5,14 +5,14 @@
     {
       "_id": "page.intranet--inset",
       "_type": "inset",
-      "html": "If you work for an agency or arm's length body, you must report an incident or breach on your local intranet. "
+      "html": "If you work for an agency or arm's length body, you must report an incident on your local intranet. "
     },
     {
       "_id": "page.intranet--content",
       "_type": "content",
-      "html": "You can use this form to report a security incident or breach, for example:\r\n\r\n- loss of personal information\r\n- a lost or stolen device, like a laptop or mobile\r\n- unauthorised access to IT systems or documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\nTo report a security incident or breach, you need to:\r\n\r\n- [complete this form](#)\r\n- email it to [security@justice.gov.uk](#)\r\n\r\nYou can also [report a security incident or breach anonymously](/). \r\n\r\nIf the incident happened outside of normal working hours, you can report it by calling 0800 917 5148.\r\n\r\nRead about [protecting personal information](#) at the MoJ.\r\n"
+      "html": "You can use this form to report a security incident, for example:\r\n\r\n- loss of personal information\r\n- a lost or stolen device, like a laptop or mobile\r\n- unauthorised access to IT systems or documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\nTo report a security incident, you need to:\r\n\r\n- [complete this form](#)\r\n- email it to [security@justice.gov.uk](#)\r\n\r\nYou can also [report a security incident anonymously](/). \r\n\r\nIf the incident happened outside of normal working hours, you can report it by calling 0800 917 5148.\r\n\r\nRead about [protecting personal information](#) at the MoJ.\r\n"
     }
   ],
-  "heading": "Report a security incident or breach",
+  "heading": "Report a security incident",
   "url": "intranet"
 }
