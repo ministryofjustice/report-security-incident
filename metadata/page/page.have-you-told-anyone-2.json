@@ -1,0 +1,33 @@
+{
+  "_id": "page.have-you-told-anyone-2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.have-you-told-anyone-2--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.have-you-told-anyone-2--radios.auto_name__3--radio.auto_value__7",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.have-you-told-anyone-2--radios.auto_name__3--radio.auto_value__7--text.auto_name__7",
+            "_type": "text",
+            "label": "Give details",
+            "name": "auto_name__7"
+          },
+          "label": "Yes",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.have-you-told-anyone-2--radios.auto_name__3--radio.auto_value__8",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__8"
+        }
+      ],
+      "legend": "Have you told anyone about the incident? ",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "have-you-told-anyone"
+}
