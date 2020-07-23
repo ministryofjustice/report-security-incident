@@ -5,7 +5,8 @@
   "heading": "Report a security incident anonymously",
   "steps": [
     "page.incident-where",
-    "page.where-did-it-happen-2",
+    "page.incident-area",
+    "page.where-did-it-happen-2--2",
     "page.incident-details",
     "page.was-anyone-involved-2",
     "page.have-you-told-anyone-2",
