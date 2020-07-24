@@ -1,6 +1,7 @@
 {
   "_id": "page.intranet",
   "_type": "page.content",
+  "body": "If you work for an agency or arm's length body, refer to the guidance on your local intranet.",
   "components": [
     {
       "$component": true,
@@ -8,7 +9,7 @@
       "$definition": true,
       "_id": "page.intranet--inset",
       "_type": "inset",
-      "html": "To report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
+      "html": "If you work for an agency or arm's length body, refer to the guidance on your local intranet for reporting security incidents.\r\n\r\nTo report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
     },
     {
       "$component": true,

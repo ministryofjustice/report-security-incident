@@ -10,7 +10,7 @@
     {
       "_id": "page.incident-confirmation--content--2",
       "_type": "content",
-      "html": "We've sent this to the MOJ Security and Privacy Team for review."
+      "html": "The MOJ Security and Privacy Team will review this and take appropriate action."
     }
   ],
   "heading": "Thank you for reporting this incident",
