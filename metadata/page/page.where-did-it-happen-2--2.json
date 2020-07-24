@@ -5,8 +5,10 @@
     {
       "_id": "page.where-did-it-happen-2--2--textarea.auto_name__10",
       "_type": "textarea",
+
       "hint": "* test\r\n* test\r\n* test",
       "label": "Where did it happen?",
+      "label": "Where did the incident happen?",
       "name": "auto_name__10"
     }
   ],
