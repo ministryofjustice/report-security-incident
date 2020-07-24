@@ -3,17 +3,20 @@
   "_type": "page.content",
   "components": [
     {
-      "_id": "page.intranet--inset",
-      "_type": "inset",
-      "html": "If you work for an agency or arm's length body, refer to the guidance on your local intranet.\r\n\r\nTo report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
-    },
-    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.intranet--content",
       "_type": "content",
-      "html": "You can use this form to report a security incident, for example:\r\n\r\n- loss of personal information\r\n- unauthorised access to documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\nTo report a security incident, you need to:\r\n\r\n- [complete this form](https://drive.google.com/file/d/1W96cpkomUjSQH5qca-SGsUcvqpMfJa85/view?usp=sharing)\r\n- email it to [security@justice.gov.uk](#)\r\n\r\nYou can also [report a security incident anonymously](/). \r\n\r\nRead about our [security policy](#)."
+      "html": "Types of security incident include:\r\n\r\n- loss of personal information\r\n- unauthorised access to documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\n## Report a security incident by email\r\n\r\nTo report a security incident, you need to [complete this form](https://drive.google.com/file/d/1W96cpkomUjSQH5qca-SGsUcvqpMfJa85/view?usp=sharing) and email it to [security@justice.gov.uk](#)\r\n\r\n## Report a security incident anonymously\r\n\r\nYou can also [report a security incident anonymously](/). \r\n\r\nRead about our [security policy](#)."
+    },
+    {
+      "_id": "page.intranet--inset",
+      "_type": "inset",
+      "html": "To report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
     }
   ],
   "heading": "Report a security incident",
-  "lede": "To protect the public and maintain trust in the system, it is important to report a security incident as soon as you know about it.",
+  "lede": "You can report a security incident by email or anonymously.",
   "url": "intranet"
 }
