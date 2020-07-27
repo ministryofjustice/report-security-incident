@@ -9,7 +9,7 @@
       "$definition": true,
       "_id": "page.intranet--inset",
       "_type": "inset",
-      "html": "If you work for an agency or arm's length body, refer to the guidance on your local intranet for reporting security incidents.\r\n\r\nTo report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
+      "html": "To report an IT incident, for example a lost or stolen device, or unauthorised access to an IT system, call 0800 917 5148."
     },
     {
       "$component": true,
@@ -17,10 +17,10 @@
       "$definition": true,
       "_id": "page.intranet--content",
       "_type": "content",
-      "html": "You should report all security incidents, including:\r\n\r\n- loss of personal information\r\n- unauthorised access to documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\nRead our [security policy](#).\r\n\r\n## Report a security incident by email\r\n\r\nYou need to [complete this form](https://drive.google.com/file/d/1W96cpkomUjSQH5qca-SGsUcvqpMfJa85/view?usp=sharing) and email it to [security@justice.gov.uk](#).\r\n\r\n## Report a security incident anonymously\r\n\r\nYou need to [complete this online form](/). "
+      "html": "You should report all security incidents, including:\r\n\r\n- loss of personal information\r\n- unauthorised access to documents\r\n- items left unsecured, like a key cabinet\r\n- suspicious people, vehicles or packages\r\n\r\n## Report a security incident by email\r\n\r\nYou need to [complete this form](https://drive.google.com/file/d/1W96cpkomUjSQH5qca-SGsUcvqpMfJa85/view?usp=sharing) and email it to [security@justice.gov.uk](#).\r\n\r\n## Report a security incident anonymously\r\n\r\nIf you're concerned about providing your name and contact details, you can [report a security incident anonymously](/).\r\n\r\n\r\n\r\n\r\nRead our [security policy](#). "
     }
   ],
   "heading": "Report a security incident",
-  "lede": "It is important to report a security incident as soon as you know about it.",
+  "lede": "To protect the public and maintain trust in the system, it is important to report a security incident as soon as you know about it.",
   "url": "intranet"
 }
