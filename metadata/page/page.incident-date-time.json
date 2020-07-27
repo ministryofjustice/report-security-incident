@@ -3,6 +3,9 @@
   "_type": "page.form",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
       "_id": "page.incident-date-time--radios.auto_name__3",
       "_type": "radios",
       "items": [
@@ -13,6 +16,10 @@
           "_id": "page.incident-date-time--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
           "conditionalComponent": {
+            "$component": true,
+            "$control": true,
+            "$definition": true,
+            "$fields": true,
             "_id": "page.incident-date-time--radios.auto_name__3--radio.auto_value__2--date.auto_name__4",
             "_type": "date",
             "legend": "Date of the incident",
@@ -35,31 +42,18 @@
       "name": "auto_name__3"
     },
     {
-      "_id": "page.incident-date-time--radios.auto_name__5",
-      "_type": "radios",
-      "items": [
-        {
-          "_id": "page.incident-date-time--radios.auto_name__5--radio.auto_value__6",
-          "_type": "radio",
-          "conditionalComponent": {
-            "_id": "page.incident-date-time--radios.auto_name__5--radio.auto_value__6--text.auto_name__6",
-            "_type": "text",
-            "hint": "For example, 4:20pm",
-            "label": "Time of the incident",
-            "name": "auto_name__6"
-          },
-          "label": "Yes",
-          "value": "auto_value__6"
-        },
-        {
-          "_id": "page.incident-date-time--radios.auto_name__5--radio.auto_value__7",
-          "_type": "radio",
-          "label": "No",
-          "value": "auto_value__7"
-        }
-      ],
-      "legend": "Do you know the time it happened?",
-      "name": "auto_name__5"
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.incident-date-time--text.auto_name__12",
+      "_type": "text",
+      "hint": "For example, 4:20pm",
+      "label": "Time (optional)",
+      "name": "auto_name__12",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "heading": "When the incident happened",
