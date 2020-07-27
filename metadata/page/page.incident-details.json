@@ -7,7 +7,9 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can",
       "label": "Tell us about the incident ",
-      "name": "auto_name__14"
+      "name": "auto_name__14",
+      "rows": "10",
+      "widthClassInput": "100%"
     }
   ],
   "url": "about-the-incident"
