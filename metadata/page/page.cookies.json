@@ -16,7 +16,7 @@
       "$definition": true,
       "_id": "page.cookies--content--2",
       "_type": "content",
-      "html": "## How cookies are used on this online form\r\n\r\nWe will store a cookie to remember your progress on this computer and to expire your session after 60 minutes of inactivity or when you close your browser."
+      "html": "## How cookies are used on this online form\r\n\r\nWe will store a cookie to remember your progress on this computer and to expire your session after 20 minutes of inactivity or when you close your browser."
     },
     {
       "$component": true,
@@ -53,7 +53,7 @@
             "html": "Saves your current progress in this computer and tracks inactivity periods"
           },
           {
-            "html": "After 60 minutes of inactivity or when you close your browser"
+            "html": "After 20 minutes of inactivity or when you close your browser"
           }
         ]
       ]
