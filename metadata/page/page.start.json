@@ -14,7 +14,7 @@
   "heading": "Report a security incident anonymously",
   "steps": [
     "page.incident-date-time",
-    "page.incident-where-area",
+    "page.business-area",
     "page.incident-details",
     "page.impact-666",
     "page.incident-check-answers",

@@ -5,8 +5,8 @@
     {
       "_id": "page.incident-details--textarea.auto_name__14",
       "_type": "textarea",
-      "hint": "Give as much detail as you can",
-      "label": "Tell us about the incident ",
+      "hint": "Give as much detail as you can, including: \r\n\r\n* who was involved\r\n* the location\r\n* the full address",
+      "label": "About the incident",
       "name": "auto_name__14",
       "rows": "10",
       "widthClassInput": "100%"
