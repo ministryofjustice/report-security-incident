@@ -12,6 +12,7 @@
     }
   ],
   "heading": "Report a security incident anonymously",
+  "lede": "",
   "steps": [
     "page.incident-date-time",
     "page.business-area",
