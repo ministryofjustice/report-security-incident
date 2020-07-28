@@ -17,72 +17,99 @@
           "value": "albs"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__1",
           "_type": "radio",
           "label": "Criminal Injuries Compensation Authority (CICA) ",
           "value": "cica"
         },
         {
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__2",
-          "_type": "radio",
-          "label": "Criminal Justice Group ",
-          "value": "cjg"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
           "label": "HM Courts & Tribunals Service (HMCTS) ",
           "value": "hmcts"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__4",
           "_type": "radio",
           "label": "HM Prison and Probation Service (HMPPS) ",
           "value": "hmpps"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__5",
           "_type": "radio",
           "label": "Chief Financial Officer Group ",
           "value": "chief_financial"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__6",
           "_type": "radio",
           "label": "Legal advisors ",
           "value": "legal_advisors"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__7",
           "_type": "radio",
           "label": "Legal Aid Agency (LAA) ",
           "value": "laa"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__8",
           "_type": "radio",
           "label": "Office of the Public Guardian (OPG) ",
           "value": "opg"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__9",
           "_type": "radio",
           "label": "Other Contractors, for example Atos or CGI ",
           "value": "other_contractors"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__10",
           "_type": "radio",
           "label": "People Group ",
           "value": "people_group"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__11",
           "_type": "radio",
           "label": "Policy, Communications & Analysis Group",
           "value": "policy_comms"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__12",
           "_type": "radio",
           "label": "I don't know",
