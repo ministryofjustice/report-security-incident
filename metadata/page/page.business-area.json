@@ -31,7 +31,7 @@
           "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
-          "label": "HM Courts & Tribunals Service (HMCTS) ",
+          "label": "HM Courts and Tribunals Service (HMCTS) ",
           "value": "hmcts"
         },
         {
