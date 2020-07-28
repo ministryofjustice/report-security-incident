@@ -12,7 +12,7 @@
     }
   ],
   "heading": "Report a security incident anonymously",
-  "lede": "",
+  "lede": "This form is anonymous and we will not identify you personally.",
   "steps": [
     "page.incident-date-time",
     "page.business-area",
