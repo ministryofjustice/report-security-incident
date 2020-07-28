@@ -32,7 +32,7 @@
             }
           },
           "label": "Yes",
-          "value": "auto_value__2"
+          "value": "yes"
         },
         {
           "$component": true,
@@ -41,11 +41,11 @@
           "_id": "page.incident-date-time--radios.auto_name__3--radio.auto_value__5",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__5"
+          "value": "no"
         }
       ],
       "legend": "Do you know the date of the incident?",
-      "name": "know_date_of_incident"
+      "name": "incident_date"
     },
     {
       "$component": true,
