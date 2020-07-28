@@ -23,7 +23,7 @@
             "_id": "page.incident-date-time--radios.auto_name__3--radio.auto_value__2--date.auto_name__4",
             "_type": "date",
             "legend": "Date",
-            "name": "auto_name__4"
+            "name": "date"
           },
           "label": "Yes",
           "value": "auto_value__2"
@@ -39,7 +39,7 @@
         }
       ],
       "legend": "Do you know the date of the incident?",
-      "name": "auto_name__3"
+      "name": "know_date_of_incident"
     },
     {
       "$component": true,
@@ -50,7 +50,7 @@
       "_type": "text",
       "hint": "For example, 4:20pm",
       "label": "Time (optional)",
-      "name": "auto_name__12",
+      "name": "time",
       "validation": {
         "required": false
       }

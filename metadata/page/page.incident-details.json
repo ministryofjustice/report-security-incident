@@ -7,7 +7,7 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can, including: \r\n\r\n* who was involved\r\n* the location\r\n* the full address",
       "label": "About the incident",
-      "name": "auto_name__14",
+      "name": "about_the_incident",
       "rows": "10",
       "widthClassInput": "100%"
     }

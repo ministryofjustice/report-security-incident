@@ -63,7 +63,7 @@
         }
       ],
       "legend": "Which part of MOJ does the incident affect?",
-      "name": "auto_name__2"
+      "name": "part_of_moj"
     }
   ],
   "url": "area-of-moj"
