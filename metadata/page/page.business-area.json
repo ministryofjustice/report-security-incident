@@ -8,58 +8,79 @@
       "hint": "Select one option.",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__15",
+          "_type": "radio",
+          "label": "Arm's-length bodies (ALBs) ",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Criminal Injuries Compensation Authority (CICA) ",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Criminal Justice Group ",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "HM Courts & Tribunals Service (HMCTS) ",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "HM Prison and Probation Service (HMPPS) ",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Chief Financial Officer Group ",
+          "value": "auto_value__5"
+        },
+        {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__6",
           "_type": "radio",
-          "label": "Criminal Injuries Compensation Authority (CICA)",
+          "label": "Legal advisors ",
           "value": "auto_value__6"
         },
         {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__7",
           "_type": "radio",
-          "label": "Criminal Justice Group",
+          "label": "Legal Aid Agency (LAA) ",
           "value": "auto_value__7"
         },
         {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__8",
           "_type": "radio",
-          "label": "Financial Assurance & Commercial",
+          "label": "Office of the Public Guardian (OPG) ",
           "value": "auto_value__8"
         },
         {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__9",
           "_type": "radio",
-          "label": "HM Courts & Tribunals Service (HMCTS)",
+          "label": "Other Contractors, for example Atos or CGI ",
           "value": "auto_value__9"
         },
         {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__10",
           "_type": "radio",
-          "label": "HM Prison and Probation Service (HMPPS)",
+          "label": "People Group ",
           "value": "auto_value__10"
         },
         {
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__11",
           "_type": "radio",
-          "label": "HQ / Chief Financial Officer Group",
+          "label": "Policy, Communications & Analysis Group",
           "value": "auto_value__11"
-        },
-        {
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__12",
-          "_type": "radio",
-          "label": "Legal Aid Agency (LAA)",
-          "value": "auto_value__12"
-        },
-        {
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__13",
-          "_type": "radio",
-          "label": "Office of the Public Guardian (OPG)",
-          "value": "auto_value__13"
-        },
-        {
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__14",
-          "_type": "radio",
-          "label": "Other Contractors, for example Atos or CGI",
-          "value": "auto_value__14"
         }
       ],
       "legend": "Which part of MOJ does the incident affect?",
