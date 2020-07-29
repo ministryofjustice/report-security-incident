@@ -99,7 +99,7 @@
           "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__11",
           "_type": "radio",
-          "label": "Policy, Communications & Analysis Group",
+          "label": "Policy, Communications and Analysis Group",
           "value": "policy_comms"
         },
         {
