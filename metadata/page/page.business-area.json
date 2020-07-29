@@ -117,7 +117,7 @@
             "_type": "text",
             "errors": {
               "required": {
-                "any": "Enter which part of MOJ the incident affects"
+                "any": "Enter details about which part of MOJ the incident affects"
               }
             },
             "hint": "For example, Atos or CGI contractors",
