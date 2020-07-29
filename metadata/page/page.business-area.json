@@ -83,15 +83,6 @@
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__9",
-          "_type": "radio",
-          "label": "Other Contractors, for example Atos or CGI ",
-          "value": "other_contractors"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__10",
           "_type": "radio",
           "label": "People Group ",
