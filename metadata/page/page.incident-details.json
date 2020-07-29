@@ -5,6 +5,11 @@
     {
       "_id": "page.incident-details--textarea.auto_name__14",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "any": "Enter details about the incident"
+        }
+      },
       "hint": "Give as much detail as you can, including who was involved and the address or description of the location",
       "label": "About the incident",
       "name": "incident_details",
