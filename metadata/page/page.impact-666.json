@@ -5,6 +5,11 @@
     {
       "_id": "page.impact-666--radios.auto_name__8",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if something has been done to try and reduce the impact"
+        }
+      },
       "items": [
         {
           "_id": "page.impact-666--radios.auto_name__8--radio.auto_value__3",
