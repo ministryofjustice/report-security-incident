@@ -8,6 +8,11 @@
       "$definition": true,
       "_id": "page.incident-date-time--radios.auto_name__3",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you know the date of the incident "
+        }
+      },
       "hint": "",
       "items": [
         {
