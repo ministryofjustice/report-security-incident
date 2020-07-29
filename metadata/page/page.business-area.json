@@ -113,23 +113,28 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__1--2",
           "_type": "radio",
           "conditionalComponent": {
+            "$component": true,
+            "$control": true,
+            "$definition": true,
+            "$field": true,
             "_id": "page.business-area--radios.auto_name__2--radio.auto_value__1--2--text.auto_name__1",
             "_type": "text",
             "hint": "For example, Atos or CGI contractors",
             "label": "Give details",
-            "name": "auto_name__1"
+            "name": "area_other_details"
           },
           "label": "Other",
-          "value": "auto_value__1"
+          "value": "area_other"
         },
         {
           "$component": true,
           "$definition": true,
           "$option": true,
-          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__2",
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__3--2",
           "_type": "radio",
+          "hasDivider": true,
           "label": "I don't know",
-          "value": "auto_value__2"
+          "value": "area_unknown"
         }
       ],
       "legend": "Which part of MOJ does the incident affect?",
