@@ -5,6 +5,7 @@
   "emailSubjectTeam": "Security incident: anonymous submission",
   "name": "Report a security incident anonymously",
   "pdfHeading": "Security incident: anonymous submission",
+  "pdfSubHeading": "Security incident: anonymous submission",
   "phase": "beta",
   "phaseText": "This is a new service – [your feedback](https://www.surveymonkey.co.uk/r/QDG62ZM) will help us to improve it."
 }
