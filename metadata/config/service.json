@@ -1,0 +1,8 @@
+{
+  "_id": "service",
+  "_isa": "@ministryofjustice/fb-components=>service",
+  "_type": "config.service",
+  "name": "Report a security incident anonymously",
+  "phase": "beta",
+  "phaseText": "This is a new service – [your feedback](https://www.surveymonkey.co.uk/r/QDG62ZM) will help us to improve it."
+}
