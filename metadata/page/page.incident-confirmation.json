@@ -1,0 +1,18 @@
+{
+  "_id": "page.incident-confirmation",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.incident-confirmation--content",
+      "_type": "content",
+      "html": "**What happens next**"
+    },
+    {
+      "_id": "page.incident-confirmation--content--2",
+      "_type": "content",
+      "html": "The MOJ Security and Privacy Team will review this and take appropriate action.\r\n\r\nGo back to the [security homepage](https://intranet.justice.gov.uk/guidance/security/).\r\n\r\n[What did you think of this form?](https://www.surveymonkey.co.uk/r/QDG62ZM) (feedback is anonymous)"
+    }
+  ],
+  "heading": "Thank you for reporting this incident",
+  "url": "incident-reported"
+}
