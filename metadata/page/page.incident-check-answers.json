@@ -1,7 +1,0 @@
-{
-  "_id": "page.incident-check-answers",
-  "_type": "page.summary",
-  "sendBody": "By reporting this incident, you confirm that the information supplied is truthful and accurate to the best of your knowledge.",
-  "sendHeading": "",
-  "url": "check-answers"
-}
