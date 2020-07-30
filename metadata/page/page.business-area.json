@@ -19,7 +19,7 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__15",
           "_type": "radio",
           "label": "Arm's-length bodies (ALBs) ",
-          "value": "albs"
+          "value": "alb"
         },
         {
           "$component": true,
@@ -55,7 +55,7 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__5",
           "_type": "radio",
           "label": "Chief Financial Officer Group ",
-          "value": "chief_financial"
+          "value": "chief-financial"
         },
         {
           "$component": true,
@@ -64,7 +64,7 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__6",
           "_type": "radio",
           "label": "Legal advisors ",
-          "value": "legal_advisors"
+          "value": "legal-advisors"
         },
         {
           "$component": true,
@@ -91,7 +91,7 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__10",
           "_type": "radio",
           "label": "People Group ",
-          "value": "people_group"
+          "value": "people-group"
         },
         {
           "$component": true,
@@ -100,7 +100,7 @@
           "_id": "page.business-area--radios.auto_name__2--radio.auto_value__11",
           "_type": "radio",
           "label": "Policy, Communications and Analysis Group",
-          "value": "policy_comms"
+          "value": "policy-comms"
         },
         {
           "$component": true,
@@ -122,10 +122,10 @@
             },
             "hint": "For example, Atos or CGI contractors",
             "label": "Give details",
-            "name": "area_other_details"
+            "name": "other_details"
           },
           "label": "Other",
-          "value": "area_other"
+          "value": "other"
         },
         {
           "$component": true,
@@ -135,11 +135,11 @@
           "_type": "radio",
           "hasDivider": true,
           "label": "I don't know",
-          "value": "area_unknown"
+          "value": "unknown"
         }
       ],
       "legend": "Which part of MOJ does the incident affect?",
-      "name": "part_of_moj"
+      "name": "moj_area"
     }
   ],
   "url": "moj-area"
