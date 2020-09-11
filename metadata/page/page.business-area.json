@@ -40,6 +40,12 @@
           "value": "hmcts"
         },
         {
+          "_id": "page.business-area--radios.auto_name__2--radio.auto_value__1--3",
+          "_type": "radio",
+          "label": "HM Prison and Probation Service (HMPPS)",
+          "value": "HMPPS"
+        },
+        {
           "$component": true,
           "$definition": true,
           "$option": true,
