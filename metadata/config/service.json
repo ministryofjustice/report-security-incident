@@ -7,5 +7,6 @@
   "pdfHeading": "Security incident: anonymous submission",
   "pdfSubHeading": "",
   "phase": "beta",
-  "phaseText": "This is a new service – [your feedback](https://www.surveymonkey.co.uk/r/QDG62ZM) will help us to improve it."
+  "phaseText": "This is a new service – [your feedback](https://www.surveymonkey.co.uk/r/QDG62ZM) will help us to improve it.",
+  "serviceEmailAddress": "MoJGroupSecurity@justice.gov.uk"
 }
